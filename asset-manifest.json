@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-vod/static/css/main.fca51aa4.css",
+    "main.js": "/react-vod/static/js/main.7dbf2928.js",
+    "index.html": "/react-vod/index.html",
+    "main.fca51aa4.css.map": "/react-vod/static/css/main.fca51aa4.css.map",
+    "main.7dbf2928.js.map": "/react-vod/static/js/main.7dbf2928.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fca51aa4.css",
+    "static/js/main.7dbf2928.js"
+  ]
+}
