@@ -1,0 +1,17 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    margin: 0;
+    padding: 0;
+    --tw-bg-opacity: 1;
+    background-color: rgb(31 41 55/var(--tw-bg-opacity));
+    height: 100%;
+    color:rgb(255, 255, 255);
+}
+
+ul{
+    margin: 0;
+    padding: 0;
+}
